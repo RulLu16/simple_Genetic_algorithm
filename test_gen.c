@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+//origin_version_Not_refactoring
 
 struct gen{
 	int word[6];
